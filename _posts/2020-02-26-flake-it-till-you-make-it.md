@@ -2,7 +2,7 @@
 layout: post
 title: Aloe Inspired Special Structure Hydrogel Pressure Sensor for Real‐Time Human‐Computer Interaction and Muscle Rehabilitation System
 subtitle: Advanced Functional Materials
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/AFMcover.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
